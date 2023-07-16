@@ -1,7 +1,19 @@
 # library
-학습노트를 정리하는 공간
+도서관
 
 ## List
->Study of __Deep Learning from Scratch 2017 (Hanbit Media)__  
->From 2023-07-11  
-2023-07-11 작성 시작
+__Deep Learning from Scratch 2017 (Hanbit Media)__  
+>Started 2023-07-11    
+>Chapter 03 2023-07-11  
+
+__Summarize CSE Textbook__  
+>__Simulation__ from Korea National Open Univ.  
+>Started 2023-07-16  
+>Introduce 2023-07-11  
+>
+>__Artificial Intelligence__ from Korea National Open Univ.  
+>Start any day now
+>
+__Translate TF2 Tutorials__  
+>__Object Detection__  
+>written 2023-07-16
